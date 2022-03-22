@@ -2,8 +2,8 @@
   "formatVersion": "1.1",
   "component": {
     "group": "com.github.maru32768",
-    "module": "JitPackTest-fuga",
-    "version": "1.0.4",
+    "module": "fuga",
+    "version": "1.0.5",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -25,13 +25,13 @@
       },
       "files": [
         {
-          "name": "JitPackTest-fuga-1.0.4.jar",
-          "url": "JitPackTest-fuga-1.0.4.jar",
+          "name": "fuga-1.0.5.jar",
+          "url": "fuga-1.0.5.jar",
           "size": 254365,
-          "sha512": "9d19147d8bdef1a9441fe92f06628e889887ef51358288fa03a9fa72ac8825a791b8e5057d338fbfdd75e174a713c56eb03b9c23dd9dfb7f0a9f1e163f91925d",
-          "sha256": "21758b95296c71e8edef8a08b55ded54b9f8383f79d7d93352e09bda2262ffd6",
-          "sha1": "96f30f38c807a936f746b7ff7b56c04910561acd",
-          "md5": "bfa7d0a70a2236a179a0a00fcc1fcfb2"
+          "sha512": "6bbae246c6b8c6246654ba7f206c9299a11ee1cb790b356c34a8590433edfa3132e07c5273f68bb6abfd699d0940f58697f2eb855ec72818ca91734a399c30c0",
+          "sha256": "0ccf595eafbb5586c99be9121793ebbe4245e456145b63d3e7e61401213d0002",
+          "sha1": "44df775395bc40d90b36681b09ef370ef83203bf",
+          "md5": "eabf973a58838a0b943426cc6117ae2e"
         }
       ]
     },
@@ -55,13 +55,13 @@
       ],
       "files": [
         {
-          "name": "JitPackTest-fuga-1.0.4.jar",
-          "url": "JitPackTest-fuga-1.0.4.jar",
+          "name": "fuga-1.0.5.jar",
+          "url": "fuga-1.0.5.jar",
           "size": 254365,
-          "sha512": "9d19147d8bdef1a9441fe92f06628e889887ef51358288fa03a9fa72ac8825a791b8e5057d338fbfdd75e174a713c56eb03b9c23dd9dfb7f0a9f1e163f91925d",
-          "sha256": "21758b95296c71e8edef8a08b55ded54b9f8383f79d7d93352e09bda2262ffd6",
-          "sha1": "96f30f38c807a936f746b7ff7b56c04910561acd",
-          "md5": "bfa7d0a70a2236a179a0a00fcc1fcfb2"
+          "sha512": "6bbae246c6b8c6246654ba7f206c9299a11ee1cb790b356c34a8590433edfa3132e07c5273f68bb6abfd699d0940f58697f2eb855ec72818ca91734a399c30c0",
+          "sha256": "0ccf595eafbb5586c99be9121793ebbe4245e456145b63d3e7e61401213d0002",
+          "sha1": "44df775395bc40d90b36681b09ef370ef83203bf",
+          "md5": "eabf973a58838a0b943426cc6117ae2e"
         }
       ]
     },
@@ -75,13 +75,13 @@
       },
       "files": [
         {
-          "name": "JitPackTest-fuga-1.0.4-all.jar",
-          "url": "JitPackTest-fuga-1.0.4-all.jar",
+          "name": "fuga-1.0.5-all.jar",
+          "url": "fuga-1.0.5-all.jar",
           "size": 254365,
-          "sha512": "9d19147d8bdef1a9441fe92f06628e889887ef51358288fa03a9fa72ac8825a791b8e5057d338fbfdd75e174a713c56eb03b9c23dd9dfb7f0a9f1e163f91925d",
-          "sha256": "21758b95296c71e8edef8a08b55ded54b9f8383f79d7d93352e09bda2262ffd6",
-          "sha1": "96f30f38c807a936f746b7ff7b56c04910561acd",
-          "md5": "bfa7d0a70a2236a179a0a00fcc1fcfb2"
+          "sha512": "6bbae246c6b8c6246654ba7f206c9299a11ee1cb790b356c34a8590433edfa3132e07c5273f68bb6abfd699d0940f58697f2eb855ec72818ca91734a399c30c0",
+          "sha256": "0ccf595eafbb5586c99be9121793ebbe4245e456145b63d3e7e61401213d0002",
+          "sha1": "44df775395bc40d90b36681b09ef370ef83203bf",
+          "md5": "eabf973a58838a0b943426cc6117ae2e"
         }
       ]
     }

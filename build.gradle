@@ -9,7 +9,7 @@ buildscript {
 
 allprojects {
     group 'com.github.maru32768'
-    version '1.0.5'
+    version '1.0.6'
 }
 
 subprojects {
@@ -33,7 +33,7 @@ subprojects {
         publications {
             maven(MavenPublication) {
                 groupId = project.group
-                artifactId = "${rootProject.name}-${project.name}"
+                artifactId = project.name
                 version = project.version
 
                 from components.java
@@ -47,11 +47,7 @@ subprojects {
     }
 
     shadowJar {
-        archiveFileName = "${rootProject.name}-${project.name}-${project.version}.jar"
+        archiveFileName = "${project.name}-${project.version}.jar"
     }
     tasks.build.dependsOn tasks.shadowJar
-
-    jar {
-        archiveName = "${rootProject.name}-${project.name}-${project.version}.jar"
-    }
 }
