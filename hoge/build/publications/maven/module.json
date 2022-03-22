@@ -3,7 +3,7 @@
   "component": {
     "group": "com.github.maru32768",
     "module": "JitPackTest-hoge",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -25,13 +25,13 @@
       },
       "files": [
         {
-          "name": "JitPackTest-hoge-1.0.3.jar",
-          "url": "JitPackTest-hoge-1.0.3.jar",
-          "size": 261,
-          "sha512": "6ef4cdcd6a81d5d030a580d1099321202bce57a27c76b8dfc101a1f000ed28be23ff277eea103c0d5035588cb4bc29df756711f4755e01e79ce6f2b47096dc6a",
-          "sha256": "3d63d25bb8fb69ebfcbdc856c6d8f480ba4f0f151d1faa5b7672568af2df899a",
-          "sha1": "a566cf68595ccd0858f726b7d99a053a862c4d5a",
-          "md5": "57c1da5d1df3f7e479acabd29f9a946f"
+          "name": "JitPackTest-hoge-1.0.4.jar",
+          "url": "JitPackTest-hoge-1.0.4.jar",
+          "size": 254365,
+          "sha512": "9d19147d8bdef1a9441fe92f06628e889887ef51358288fa03a9fa72ac8825a791b8e5057d338fbfdd75e174a713c56eb03b9c23dd9dfb7f0a9f1e163f91925d",
+          "sha256": "21758b95296c71e8edef8a08b55ded54b9f8383f79d7d93352e09bda2262ffd6",
+          "sha1": "96f30f38c807a936f746b7ff7b56c04910561acd",
+          "md5": "bfa7d0a70a2236a179a0a00fcc1fcfb2"
         }
       ]
     },
@@ -55,13 +55,13 @@
       ],
       "files": [
         {
-          "name": "JitPackTest-hoge-1.0.3.jar",
-          "url": "JitPackTest-hoge-1.0.3.jar",
-          "size": 261,
-          "sha512": "6ef4cdcd6a81d5d030a580d1099321202bce57a27c76b8dfc101a1f000ed28be23ff277eea103c0d5035588cb4bc29df756711f4755e01e79ce6f2b47096dc6a",
-          "sha256": "3d63d25bb8fb69ebfcbdc856c6d8f480ba4f0f151d1faa5b7672568af2df899a",
-          "sha1": "a566cf68595ccd0858f726b7d99a053a862c4d5a",
-          "md5": "57c1da5d1df3f7e479acabd29f9a946f"
+          "name": "JitPackTest-hoge-1.0.4.jar",
+          "url": "JitPackTest-hoge-1.0.4.jar",
+          "size": 254365,
+          "sha512": "9d19147d8bdef1a9441fe92f06628e889887ef51358288fa03a9fa72ac8825a791b8e5057d338fbfdd75e174a713c56eb03b9c23dd9dfb7f0a9f1e163f91925d",
+          "sha256": "21758b95296c71e8edef8a08b55ded54b9f8383f79d7d93352e09bda2262ffd6",
+          "sha1": "96f30f38c807a936f746b7ff7b56c04910561acd",
+          "md5": "bfa7d0a70a2236a179a0a00fcc1fcfb2"
         }
       ]
     },
@@ -75,13 +75,13 @@
       },
       "files": [
         {
-          "name": "JitPackTest-hoge-1.0.3-all.jar",
-          "url": "JitPackTest-hoge-1.0.3-all.jar",
+          "name": "JitPackTest-hoge-1.0.4-all.jar",
+          "url": "JitPackTest-hoge-1.0.4-all.jar",
           "size": 254365,
-          "sha512": "7366f7eaa0c62cab4b692ee0b228903d8d6f80109ad5361febb3fd406ce696ceeb2895032097cbb253e07ccc7edfdabe13ac678bfc7843d3e123b48a7fe473df",
-          "sha256": "7470043ba484a835454b83b9486d808fceab4f1e4ba3c65f86f7a95a6bd9e833",
-          "sha1": "ed0874416925ae2c1c89937b97e8ee61d2f43a91",
-          "md5": "fd997541155baa743c11ba3fcea15bf0"
+          "sha512": "9d19147d8bdef1a9441fe92f06628e889887ef51358288fa03a9fa72ac8825a791b8e5057d338fbfdd75e174a713c56eb03b9c23dd9dfb7f0a9f1e163f91925d",
+          "sha256": "21758b95296c71e8edef8a08b55ded54b9f8383f79d7d93352e09bda2262ffd6",
+          "sha1": "96f30f38c807a936f746b7ff7b56c04910561acd",
+          "md5": "bfa7d0a70a2236a179a0a00fcc1fcfb2"
         }
       ]
     }

@@ -9,7 +9,7 @@ buildscript {
 
 allprojects {
     group 'com.github.maru32768'
-    version '1.0.4'
+    version '1.0.5'
 }
 
 subprojects {
@@ -50,4 +50,8 @@ subprojects {
         archiveFileName = "${rootProject.name}-${project.name}-${project.version}.jar"
     }
     tasks.build.dependsOn tasks.shadowJar
+
+    jar {
+        archiveName = "${rootProject.name}-${project.name}-${project.version}.jar"
+    }
 }
