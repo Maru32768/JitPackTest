@@ -1,11 +1,4 @@
-buildscript {
-    repositories {
-        gradlePluginPortal()
-    }
-    dependencies {
-        classpath "com.github.jengelman.gradle.plugins:shadow:6.1.0"
-    }
-}
+
 
 allprojects {
     group 'com.github.maru32768'
