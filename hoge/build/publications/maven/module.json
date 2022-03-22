@@ -1,0 +1,89 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.maru32768",
+    "module": "hoge",
+    "version": "1.0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "hoge-1.0.1.jar",
+          "url": "hoge-1.0.1.jar",
+          "size": 261,
+          "sha512": "981f1eb4caec388aec4e8d384f1ad5cb8edc211b4da21904de95f73d051369ea536a861649f6f3be686000a0abef8a9c9545c2cd89fc7a193bf0285f913cca6b",
+          "sha256": "6c9e41e152aa4c1e8709363284b645733e7f962c2271c4f0464975df798e1e7c",
+          "sha1": "994bf06af2030f55946974681afe1260b0557bed",
+          "md5": "d9be6eea4d7f80acc81543ce8dec020e"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.8.9"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "hoge-1.0.1.jar",
+          "url": "hoge-1.0.1.jar",
+          "size": 261,
+          "sha512": "981f1eb4caec388aec4e8d384f1ad5cb8edc211b4da21904de95f73d051369ea536a861649f6f3be686000a0abef8a9c9545c2cd89fc7a193bf0285f913cca6b",
+          "sha256": "6c9e41e152aa4c1e8709363284b645733e7f962c2271c4f0464975df798e1e7c",
+          "sha1": "994bf06af2030f55946974681afe1260b0557bed",
+          "md5": "d9be6eea4d7f80acc81543ce8dec020e"
+        }
+      ]
+    },
+    {
+      "name": "shadowRuntimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "shadowed",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "hoge-1.0.1-all.jar",
+          "url": "hoge-1.0.1-all.jar",
+          "size": 254365,
+          "sha512": "205668b29f42eb25086a33414d7a5542d5476f8ecf4b8f65bcf08b36abaa2810fb73dd6f4dc2b9bc9d6667cb11bc82888a5c909dd5400197e846a853572d614a",
+          "sha256": "38820155e4c4fea5f3f79c3e4e395ffc7dcb0bdab469925945b3f5fb37e90e87",
+          "sha1": "099828e6d3ab70fd264f659b06e2ec21ea9cb9be",
+          "md5": "c75b38208275e03b4546b16ec6ead1b0"
+        }
+      ]
+    }
+  ]
+}
