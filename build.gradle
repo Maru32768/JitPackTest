@@ -1,12 +1,22 @@
+buildscript {
+    repositories {
+        gradlePluginPortal()
+    }
+    dependencies {
+        classpath "com.github.jengelman.gradle.plugins:shadow:6.1.0"
+    }
+}
+
 allprojects {
     group 'com.github.maru32768'
-    version '1.0.2'
+    version '1.0.3'
 }
 
 subprojects {
     apply plugin: "java"
     apply plugin: "maven-publish"
     apply plugin: "idea"
+    apply plugin: "com.github.johnrengelman.shadow"
 
     idea {
         module {
@@ -27,6 +37,9 @@ subprojects {
                 version = project.version
 
                 from components.java
+            }
+            shadow(MavenPublication) { publication ->
+                project.shadow.component(publication)
             }
         }
     }

@@ -3,7 +3,7 @@
   "component": {
     "group": "com.github.maru32768",
     "module": "hoge",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -25,13 +25,13 @@
       },
       "files": [
         {
-          "name": "hoge-1.0.1.jar",
-          "url": "hoge-1.0.1.jar",
+          "name": "hoge-1.0.2.jar",
+          "url": "hoge-1.0.2.jar",
           "size": 261,
-          "sha512": "981f1eb4caec388aec4e8d384f1ad5cb8edc211b4da21904de95f73d051369ea536a861649f6f3be686000a0abef8a9c9545c2cd89fc7a193bf0285f913cca6b",
-          "sha256": "6c9e41e152aa4c1e8709363284b645733e7f962c2271c4f0464975df798e1e7c",
-          "sha1": "994bf06af2030f55946974681afe1260b0557bed",
-          "md5": "d9be6eea4d7f80acc81543ce8dec020e"
+          "sha512": "12c449468b22935afd06342df7d6f149eec1b45a296d8613955feae23e02ec3d6bd2b89c532a13f8a7617eef6da5093ca791695549141968da92fbdba8263302",
+          "sha256": "a88b183c11412ee54037965bbd52d3c56f11ef59998a894115ccc88eab00e77d",
+          "sha1": "5d3269963cb6e038d6980e62a7c217b5518a24a1",
+          "md5": "50ec6b42d76b7788c3aed942dc5aed6e"
         }
       ]
     },
@@ -55,13 +55,13 @@
       ],
       "files": [
         {
-          "name": "hoge-1.0.1.jar",
-          "url": "hoge-1.0.1.jar",
+          "name": "hoge-1.0.2.jar",
+          "url": "hoge-1.0.2.jar",
           "size": 261,
-          "sha512": "981f1eb4caec388aec4e8d384f1ad5cb8edc211b4da21904de95f73d051369ea536a861649f6f3be686000a0abef8a9c9545c2cd89fc7a193bf0285f913cca6b",
-          "sha256": "6c9e41e152aa4c1e8709363284b645733e7f962c2271c4f0464975df798e1e7c",
-          "sha1": "994bf06af2030f55946974681afe1260b0557bed",
-          "md5": "d9be6eea4d7f80acc81543ce8dec020e"
+          "sha512": "12c449468b22935afd06342df7d6f149eec1b45a296d8613955feae23e02ec3d6bd2b89c532a13f8a7617eef6da5093ca791695549141968da92fbdba8263302",
+          "sha256": "a88b183c11412ee54037965bbd52d3c56f11ef59998a894115ccc88eab00e77d",
+          "sha1": "5d3269963cb6e038d6980e62a7c217b5518a24a1",
+          "md5": "50ec6b42d76b7788c3aed942dc5aed6e"
         }
       ]
     },
@@ -75,13 +75,13 @@
       },
       "files": [
         {
-          "name": "hoge-1.0.1-all.jar",
-          "url": "hoge-1.0.1-all.jar",
+          "name": "hoge-1.0.2-all.jar",
+          "url": "hoge-1.0.2-all.jar",
           "size": 254365,
-          "sha512": "205668b29f42eb25086a33414d7a5542d5476f8ecf4b8f65bcf08b36abaa2810fb73dd6f4dc2b9bc9d6667cb11bc82888a5c909dd5400197e846a853572d614a",
-          "sha256": "38820155e4c4fea5f3f79c3e4e395ffc7dcb0bdab469925945b3f5fb37e90e87",
-          "sha1": "099828e6d3ab70fd264f659b06e2ec21ea9cb9be",
-          "md5": "c75b38208275e03b4546b16ec6ead1b0"
+          "sha512": "2d297c57d5ff0ff1eedcd8a4b706e2b1c85174eba4a07361bc8e46a7f9073be9cc5bfa58f980ebfd966795fc1da3826d2ca9c3cd81e81c0b38cbf99d72b48706",
+          "sha256": "3d3afa7d47d2fc088ec0101b16dc9c88b133fcbea580553020ab4593f2b1b49f",
+          "sha1": "558b8d272f2d6d7862aaab015e0f2bfd348b51e0",
+          "md5": "8921047c0baf0345c9ccacf771c86910"
         }
       ]
     }

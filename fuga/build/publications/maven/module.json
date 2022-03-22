@@ -3,7 +3,7 @@
   "component": {
     "group": "com.github.maru32768",
     "module": "fuga",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -25,13 +25,13 @@
       },
       "files": [
         {
-          "name": "fuga-1.0.1.jar",
-          "url": "fuga-1.0.1.jar",
+          "name": "fuga-1.0.2.jar",
+          "url": "fuga-1.0.2.jar",
           "size": 261,
-          "sha512": "981f1eb4caec388aec4e8d384f1ad5cb8edc211b4da21904de95f73d051369ea536a861649f6f3be686000a0abef8a9c9545c2cd89fc7a193bf0285f913cca6b",
-          "sha256": "6c9e41e152aa4c1e8709363284b645733e7f962c2271c4f0464975df798e1e7c",
-          "sha1": "994bf06af2030f55946974681afe1260b0557bed",
-          "md5": "d9be6eea4d7f80acc81543ce8dec020e"
+          "sha512": "12c449468b22935afd06342df7d6f149eec1b45a296d8613955feae23e02ec3d6bd2b89c532a13f8a7617eef6da5093ca791695549141968da92fbdba8263302",
+          "sha256": "a88b183c11412ee54037965bbd52d3c56f11ef59998a894115ccc88eab00e77d",
+          "sha1": "5d3269963cb6e038d6980e62a7c217b5518a24a1",
+          "md5": "50ec6b42d76b7788c3aed942dc5aed6e"
         }
       ]
     },
@@ -55,13 +55,13 @@
       ],
       "files": [
         {
-          "name": "fuga-1.0.1.jar",
-          "url": "fuga-1.0.1.jar",
+          "name": "fuga-1.0.2.jar",
+          "url": "fuga-1.0.2.jar",
           "size": 261,
-          "sha512": "981f1eb4caec388aec4e8d384f1ad5cb8edc211b4da21904de95f73d051369ea536a861649f6f3be686000a0abef8a9c9545c2cd89fc7a193bf0285f913cca6b",
-          "sha256": "6c9e41e152aa4c1e8709363284b645733e7f962c2271c4f0464975df798e1e7c",
-          "sha1": "994bf06af2030f55946974681afe1260b0557bed",
-          "md5": "d9be6eea4d7f80acc81543ce8dec020e"
+          "sha512": "12c449468b22935afd06342df7d6f149eec1b45a296d8613955feae23e02ec3d6bd2b89c532a13f8a7617eef6da5093ca791695549141968da92fbdba8263302",
+          "sha256": "a88b183c11412ee54037965bbd52d3c56f11ef59998a894115ccc88eab00e77d",
+          "sha1": "5d3269963cb6e038d6980e62a7c217b5518a24a1",
+          "md5": "50ec6b42d76b7788c3aed942dc5aed6e"
         }
       ]
     },
@@ -75,13 +75,13 @@
       },
       "files": [
         {
-          "name": "fuga-1.0.1-all.jar",
-          "url": "fuga-1.0.1-all.jar",
+          "name": "fuga-1.0.2-all.jar",
+          "url": "fuga-1.0.2-all.jar",
           "size": 254365,
-          "sha512": "116cde6dcb2633762954036b3e31aac9e20b7fdecba95041556d0a237d9c0fe01541a5ccc2f3eb036ae6568175510aed9d7c874fc095a2e3965f06a5cfbd9482",
-          "sha256": "40d355eab400cd0c492c384d0d4824409ab0fb160d3153012036e4b6165a9568",
-          "sha1": "5d32dfd2f64fd05f139ee041b6b206ac76555632",
-          "md5": "7887a54cfa46d07096be55c57df4c5e6"
+          "sha512": "35cf366f38394fde98b5086c84a4f4a955096ad90751d395bf3168a965d986b237ef7a79b0f42b41ac30fea593badaa0aff16fcabdd7f0862aa9a9c5b7e8792a",
+          "sha256": "903b428659493a38eb653384014dbf737ac366dcf053d988b9256acc0a9eff60",
+          "sha1": "40f8451ca1a10bcdcd28a8e95d091e6348038c2b",
+          "md5": "a19ecc96ff18315b96680b2b7971d0c3"
         }
       ]
     }
