@@ -1,9 +1,7 @@
-plugins {
-    id 'java'
+allprojects {
+    group 'com.github.maru32768'
+    version '1.0.0'
 }
-
-group 'com.github.maru32768'
-version '1.0.0'
 
 subprojects {
     apply plugin: "java"
