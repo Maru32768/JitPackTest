@@ -1,0 +1,23 @@
+buildscript {
+    repositories {
+        gradlePluginPortal()
+    }
+    dependencies {
+        classpath "com.github.jengelman.gradle.plugins:shadow:6.1.0"
+    }
+}
+
+apply plugin: "com.github.johnrengelman.shadow"
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation "com.google.code.gson:gson:2.8.9"
+}
+
+shadowJar {
+    archiveFileName = "${rootProject.name}-${version}.jar"
+}
+tasks.build.dependsOn tasks.shadowJar

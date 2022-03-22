@@ -1,0 +1,40 @@
+plugins {
+    id 'java'
+}
+
+group 'com.github.maru32768'
+version '1.0.0'
+
+subprojects {
+    apply plugin: "java"
+    apply plugin: "maven-publish"
+    apply plugin: "idea"
+
+    idea {
+        module {
+            downloadJavadoc = true
+            downloadSources = true
+        }
+    }
+
+    tasks.withType(JavaCompile) {
+        options.encoding = "UTF-8"
+    }
+
+    publishing {
+        publications {
+            mavenJava(MavenPublication) {
+                groupId = project.group
+                artifactId = project.name
+                version = project.version
+
+                from components.java
+            }
+        }
+    }
+
+    javadoc {
+        options.charSet = "UTF-8"
+        options.encoding = "UTF-8"
+    }
+}
